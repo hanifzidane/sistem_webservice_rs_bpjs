@@ -1,4 +1,8 @@
 # 🏥 Web Service Simulasi RS & BPJS (PHP Native)
+<p>
+  <img src="assets/img/rs.png" alt="RS" width="50%">
+  <img src="assets/img/bpjs.png" alt="BPJS" width="50%">
+</p>
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
@@ -82,3 +86,4 @@ webservice/
 │   └── ws_bpjs.php             # Web service BPJS (JSON)
 │
 └── README.md                   # Dokumentasi proyek
+
