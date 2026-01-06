@@ -1,7 +1,7 @@
 # 🏥 Web Service Simulasi RS & BPJS (PHP Native)
-<p>
-  <img src="assets/img/rs.png" alt="RS" width="50%">
-  <img src="assets/img/bpjs.png" alt="BPJS" width="50%">
+<p align="left">
+  <img src="rs.png" alt="RS" width="500">
+  <img src="bpjs.png" alt="BPJS" width="490">
 </p>
 
 ![PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)
